@@ -1,10 +1,14 @@
 - 👋 Hi, I’m @GGhenrik
-- 👀 I’m interested in learning how to code in C++
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
+- 👀 I’m a engineer that is interested in learning how to code in following language:
+    Webdevelopment front end & back end (my goal is to become proficient in fullstack development)
+    C-language (C, C++)
+    Embedded development
 
-<!---
-GGhenrik/GGhenrik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  In the end have the capability to make an Idea to a product.
+  
+- 🌱 I’m currently learning to code in webdevelopment front end & back end
+  
+- 📫 For now I am not interested in getting in contact with any one.
+
+
